@@ -1,0 +1,6 @@
+E:\Writting\TypeScript\WelcomToTypeScript\DataTypeAPp\DataTypeAPp\bin\DataTypeAPp.dll.config
+E:\Writting\TypeScript\WelcomToTypeScript\DataTypeAPp\DataTypeAPp\bin\DataTypeAPp.dll
+E:\Writting\TypeScript\WelcomToTypeScript\DataTypeAPp\DataTypeAPp\bin\DataTypeAPp.pdb
+E:\Writting\TypeScript\WelcomToTypeScript\DataTypeAPp\DataTypeAPp\obj\Debug\DataTypeAPp.dll
+E:\Writting\TypeScript\WelcomToTypeScript\DataTypeAPp\DataTypeAPp\obj\Debug\DataTypeAPp.pdb
+E:\Writting\TypeScript\WelcomToTypeScript\DataTypeAPp\DataTypeAPp\obj\Debug\DataTypeAPp.csprojResolveAssemblyReference.cache
